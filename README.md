@@ -1,7 +1,6 @@
 # 📋 Advanced Task Manager
 
 A sleek, modern task management application with a beautiful dark/light theme interface. Organize your tasks efficiently with kanban boards, calendar views, and productivity analytics — all in one place.
-
 ---
 
 ## 👩‍💻 Developed By
